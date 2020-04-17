@@ -1,9 +1,11 @@
-
 <p align="center">
 <img src="http://wangjiayu.net/media/upload/2020/04/16/docker-on-raspberrypi.jpg" width="800">
 </p>
 
-### Welcome to visit [my website](http://wangjiayu.net) for more tutorial
+
+# Dockerizing Django App with MySQL, Gunicorn and Nginx
+### Welcome to visit [my website](http://wangjiayu.net) for more tutorials
+
 
 ## Chapter One
 
